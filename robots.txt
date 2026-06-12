@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://redfirebuilder-afk.github.io/tyaga-k-sladkomu-prichiny/sitemap.xml
